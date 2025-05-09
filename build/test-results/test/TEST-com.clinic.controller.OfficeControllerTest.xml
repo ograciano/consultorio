@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clinic.controller.OfficeControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-09T23:07:18" hostname="ograciano-1-0" time="0.093">
+  <properties/>
+  <testcase name="shouldCreateOffice()" classname="com.clinic.controller.OfficeControllerTest" time="0.044"/>
+  <testcase name="shouldUpdateOffice()" classname="com.clinic.controller.OfficeControllerTest" time="0.013"/>
+  <testcase name="shouldDeleteOffice()" classname="com.clinic.controller.OfficeControllerTest" time="0.011"/>
+  <testcase name="shouldReturnAllOffices()" classname="com.clinic.controller.OfficeControllerTest" time="0.011"/>
+  <testcase name="shouldGetOfficeById()" classname="com.clinic.controller.OfficeControllerTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

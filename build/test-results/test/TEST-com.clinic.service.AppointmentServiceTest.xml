@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clinic.service.AppointmentServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-09T23:07:18" hostname="ograciano-1-0" time="0.073">
+  <properties/>
+  <testcase name="shouldSaveAppointmentWhenNoConflict()" classname="com.clinic.service.AppointmentServiceTest" time="0.068"/>
+  <testcase name="shouldRejectIfOfficeConflictExists()" classname="com.clinic.service.AppointmentServiceTest" time="0.002"/>
+  <testcase name="shouldRejectIfDoctorHas8Appointments()" classname="com.clinic.service.AppointmentServiceTest" time="0.001"/>
+  <testcase name="shouldRejectIfPatientHasAnotherAppointmentClose()" classname="com.clinic.service.AppointmentServiceTest" time="0.001"/>
+  <testcase name="shouldRejectIfDoctorConflictExists()" classname="com.clinic.service.AppointmentServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

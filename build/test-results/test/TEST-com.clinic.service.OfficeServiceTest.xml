@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clinic.service.OfficeServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-09T23:07:18" hostname="ograciano-1-0" time="0.023">
+  <properties/>
+  <testcase name="shouldGetAllOffices()" classname="com.clinic.service.OfficeServiceTest" time="0.02"/>
+  <testcase name="shouldCreateOffice()" classname="com.clinic.service.OfficeServiceTest" time="0.001"/>
+  <testcase name="shouldUpdateOffice()" classname="com.clinic.service.OfficeServiceTest" time="0.001"/>
+  <testcase name="shouldGetOfficeById()" classname="com.clinic.service.OfficeServiceTest" time="0.0"/>
+  <testcase name="shouldSoftDeleteOffice()" classname="com.clinic.service.OfficeServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
