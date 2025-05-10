@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.clinic.controller.AppointmentControllerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-05-09T23:07:17" hostname="ograciano-1-0" time="1.012">
+<testsuite name="com.clinic.controller.AppointmentControllerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-05-10T00:49:33" hostname="ograciano-1-0" time="0.99">
   <properties/>
-  <testcase name="shouldCreateAppointment()" classname="com.clinic.controller.AppointmentControllerTest" time="0.872"/>
+  <testcase name="shouldCreateAppointment()" classname="com.clinic.controller.AppointmentControllerTest" time="0.853"/>
   <testcase name="shouldFilterByDate()" classname="com.clinic.controller.AppointmentControllerTest" time="0.032"/>
-  <testcase name="shouldFilterByDoctor()" classname="com.clinic.controller.AppointmentControllerTest" time="0.02"/>
-  <testcase name="shouldFilterByOffice()" classname="com.clinic.controller.AppointmentControllerTest" time="0.014"/>
+  <testcase name="shouldFilterByDoctor()" classname="com.clinic.controller.AppointmentControllerTest" time="0.019"/>
+  <testcase name="shouldFilterByOffice()" classname="com.clinic.controller.AppointmentControllerTest" time="0.016"/>
   <testcase name="shouldUpdateAppointment()" classname="com.clinic.controller.AppointmentControllerTest" time="0.014"/>
-  <testcase name="shouldReturnAllAppointments()" classname="com.clinic.controller.AppointmentControllerTest" time="0.016"/>
+  <testcase name="shouldReturnAllAppointments()" classname="com.clinic.controller.AppointmentControllerTest" time="0.013"/>
   <testcase name="shouldAllowNinthAppointmentAfterFive()" classname="com.clinic.controller.AppointmentControllerTest" time="0.014"/>
-  <testcase name="shouldGetAppointmentById()" classname="com.clinic.controller.AppointmentControllerTest" time="0.013"/>
+  <testcase name="shouldGetAppointmentById()" classname="com.clinic.controller.AppointmentControllerTest" time="0.012"/>
   <testcase name="shouldDeleteAppointment()" classname="com.clinic.controller.AppointmentControllerTest" time="0.013"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/home/osimental/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.16/4a451ee6484abac3a498df0f3b33ed00a6fced4d/byte-buddy-agent-1.14.16.jar)

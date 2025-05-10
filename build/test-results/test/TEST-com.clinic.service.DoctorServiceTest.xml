@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.clinic.service.DoctorServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-09T23:07:18" hostname="ograciano-1-0" time="0.025">
+<testsuite name="com.clinic.service.DoctorServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-10T00:49:34" hostname="ograciano-1-0" time="0.031">
   <properties/>
-  <testcase name="shouldCreateDoctor()" classname="com.clinic.service.DoctorServiceTest" time="0.021"/>
+  <testcase name="shouldCreateDoctor()" classname="com.clinic.service.DoctorServiceTest" time="0.027"/>
   <testcase name="shouldUpdateDoctor()" classname="com.clinic.service.DoctorServiceTest" time="0.001"/>
   <testcase name="shouldGetDoctorById()" classname="com.clinic.service.DoctorServiceTest" time="0.001"/>
   <testcase name="shouldGetAllDoctors()" classname="com.clinic.service.DoctorServiceTest" time="0.001"/>
